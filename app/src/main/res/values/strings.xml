@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">DemonSlayerApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_char">Characters</string>
+    <string name="title_profile">Profile</string>
+    <string name="character_name">Karakter</string>
+    <string name="description">Deskripsi</string>
+    <string name="tittle_slayer">Slayer</string>
+    <string name="tittle_demon">Demon</string>
+
+    <string name="nim">L0122096</string>
+    <string name="nama">Mohammad Rizki Maulana</string>
+    <string name="majorClass">Informatics, 2022</string>
+    <string name="faculty">Information Technology and Data Science</string>
+    <string name="univ">Sebelas Maret University</string>
+    <string name="email">rizkimaul32@student.uns.ac.id</string>
+    <string name="share">Share</string>
+
+    <string name="desc_app">Demon Slayer App adalah sebuah aplikasi yang didedikasikan untuk para penggemar serial Kimetsu no Yaiba. Aplikasi ini menyediakan informasi lengkap tentang karakter-karakter utama dalam cerita, baik Pemburu Iblis maupun iblis, beserta gambar-gambar karakter yang ikonik.</string>
+
+    <string-array name="data_name_slayer">
+        <item>Tanjiro Kamado</item>
+        <item>Nezuko Kamado</item>
+        <item>Zenitsu Agatsuma</item>
+        <item>Inosuke Hashibira</item>
+        <item>Giyu Tomioka</item>
+        <item>Shinobu Kocho</item>
+        <item>Kyojuro Rengoku</item>
+        <item>Tengen Uzui</item>
+        <item>Muichiro Tokito</item>
+        <item>Mitsuri Kanroji</item>
+        <item>Obanai Iguro</item>
+        <item>Sanemi Shinazugawa</item>
+        <item>Gyomei Himejima</item>
+    </string-array>
+
+    <string-array name="data_desc_slayer">
+        <item><![CDATA[Tanjiro Kamado adalah protagonis utama dalam seri Kimetsu no Yaiba. Dia adalah seorang anak laki-laki yang tinggal bersama keluarganya di desa terpencil. Suatu hari, keluarganya dibantai oleh iblis, meninggalkan Tanjiro sebagai satu-satunya yang selamat. Setelah insiden tersebut, Tanjiro bersumpah untuk membalas dendam pada iblis yang telah membunuh keluarganya. Dia kemudian bergabung dengan Korps Pemburu Iblis dan memulai perjalanannya untuk menjadi pemburu iblis terbaik. Tanjiro dikenal karena kegigihannya, semangatnya yang kuat, dan kemampuannya untuk berempati terhadap iblis, bahkan saat dia melawan mereka.]]></item>
+        <item><![CDATA[Nezuko Kamado adalah adik perempuan dari Tanjiro Kamado. Dia adalah korban dari serangan iblis yang mengubahnya menjadi iblis. Meskipun menjadi iblis, Nezuko masih mempertahankan sisi manusianya dan berusaha untuk melindungi dan membantu saudaranya, Tanjiro, dalam perjalanannya sebagai pemburu iblis. Nezuko memiliki kekuatan luar biasa sebagai iblis, termasuk kekuatan regenerasi yang cepat dan serangan yang kuat. Meskipun terjadi transformasi dramatis dalam dirinya, Nezuko tetap memperlihatkan kasih sayang dan kebaikan hati yang membuatnya istimewa.]]></item>
+        <item><![CDATA[Zenitsu Agatsuma adalah teman sekelas Tanjiro yang menjadi pemburu iblis setelah kejadian tragis dalam hidupnya. Awalnya, Zenitsu dikenal karena sifat penakutnya yang ekstrem dan rasa ketakutannya yang mendalam akan kegelapan dan iblis. Namun, ketika dia terbangun dalam situasi yang mengancam nyawa, Zenitsu memperlihatkan kekuatan luar biasa dan kemampuan bertarung yang luar biasa. Dia dikenal karena kecepatan dan kekuatannya yang hebat saat dia terbangun dalam keadaan tidur. Meskipun masih memiliki ketakutan yang besar, Zenitsu terus berjuang demi teman-temannya dan untuk melindungi orang-orang yang dicintainya.]]></item>
+        <item><![CDATA[Inosuke Hashibira adalah pemburu iblis yang kasar dan pemberani. Dia tumbuh di hutan dan hidup sebagai anak laki-laki liar sebelum bergabung dengan Korps Pemburu Iblis. Inosuke memiliki kekuatan fisik yang luar biasa dan bertarung dengan gaya yang agresif dan tanpa kompromi. Dia sering bertarung dengan menggunakan dua pedang dan memakai topeng babi yang ikonik. Meskipun tampak kasar dan tidak terkendali, Inosuke memiliki hati yang baik dan memperlihatkan keberanian dan kejujuran yang luar biasa dalam pertempuran melawan kejahatan.]]></item>
+        <item><![CDATA[Giyu Tomioka adalah seorang pilar dalam Korps Pemburu Iblis. Dia adalah Pemburu Iblis yang tenang, tegas, dan berdedikasi. Giyu dikenal karena kemampuannya dalam menggunakan elemen air dalam pertempuran dan memiliki kekuatan luar biasa. Meskipun tampak dingin dan serius, Giyu memiliki hati yang baik dan peduli terhadap nasib para pemburu iblis dan korban-korban iblis. Dia adalah mentor bagi Tanjiro dan memberikan bimbingan serta dukungan padanya dalam perjalanannya sebagai pemburu iblis.]]></item>
+        <item><![CDATA[Shinobu Kocho adalah seorang pilar dalam Korps Pemburu Iblis yang memiliki kepribadian yang ceria dan penuh semangat. Meskipun tampak lembut dan ramah, Shinobu memiliki kemampuan yang mematikan dalam pertarungan melawan iblis. Dia adalah ahli dalam menggunakan racun dan memanfaatkan kelemahan alami iblis untuk mengalahkan mereka. Shinobu memiliki motivasi yang kuat untuk membasmi iblis karena peristiwa tragis dalam masa kecilnya. Meskipun menghadapi kekerasan dan kesengsaraan, Shinobu tetap tegar dan melanjutkan perjuangannya sebagai Pemburu Iblis untuk melindungi orang-orang yang dicintainya.]]></item>
+        <item><![CDATA[Kyojuro Rengoku adalah seorang pilar dalam Korps Pemburu Iblis yang dikenal sebagai Pilar Api. Dia memiliki semangat yang luar biasa dan komitmen yang tak tergoyahkan terhadap melindungi orang-orang dari kejahatan iblis. Kyojuro adalah pemburu iblis yang kuat dan berani dengan kemampuan bertarung yang luar biasa. Dia adalah sosok inspiratif bagi para pemburu iblis muda, termasuk Tanjiro, yang memandangnya sebagai teladan dalam perjuangan mereka melawan kejahatan.]]></item>
+        <item><![CDATA[Tengen Uzui adalah seorang pilar dalam Korps Pemburu Iblis yang dikenal sebagai Pilar Suara. Dia adalah seorang ahli dalam penggunaan senjata bermacam-macam dan memiliki keahlian dalam mengatur intelijen dan operasi penyamaran. Tengen adalah pemburu iblis yang cerdas dan berpengalaman, yang sering bertindak sebagai mentor bagi para pemburu iblis muda. Meskipun memiliki kepribadian yang eksentrik dan terkadang arogan, Tengen adalah sekutu yang kuat dan andal dalam pertempuran melawan iblis.]]></item>
+        <item><![CDATA[Muichiro Tokito adalah seorang pilar dalam Korps Pemburu Iblis yang dikenal sebagai Pilar Angin. Dia adalah seorang pemburu iblis yang tenang dan penuh semangat, yang memiliki kemampuan luar biasa dalam pertempuran. Muichiro adalah pemburu iblis yang berbakat dan berdedikasi, yang selalu berusaha untuk menjadi yang terbaik dalam melindungi orang-orang dari kejahatan iblis. Meskipun tampak pendiam dan kurang berekspresi, Muichiro memiliki hati yang baik dan melindungi rekan-rekannya dengan setia.]]></item>
+        <item><![CDATA[Mitsuri Kanroji adalah seorang pilar dalam Korps Pemburu Iblis yang dikenal sebagai Pilar Cinta. Dia adalah seorang pemburu iblis yang ceria dan bersemangat, yang memiliki kekuatan luar biasa dan kepribadian yang menarik. Mitsuri adalah pemburu iblis yang kuat dan percaya pada kekuatan cinta sebagai sumber kekuatan sejati. Dia adalah sosok yang ramah dan penuh kasih sayang, yang selalu berusaha untuk melindungi orang-orang yang dicintainya dari kejahatan iblis.]]></item>
+        <item><![CDATA[Obanai Iguro adalah seorang pilar dalam Korps Pemburu Iblis yang dikenal sebagai Pilar Keheningan. Dia adalah seorang pemburu iblis yang tenang, serius, dan fokus, yang memiliki kemampuan bertarung yang luar biasa. Obanai adalah ahli dalam menggunakan pedang dan teknik bela diri, yang membuatnya menjadi lawan yang menantang bagi iblis. Meskipun tampak dingin dan terpisah, Obanai memiliki hati yang baik dan berusaha untuk melindungi orang-orang yang dicintainya dari kejahatan iblis.]]></item>
+        <item><![CDATA[Sanemi Shinazugawa adalah seorang pilar dalam Korps Pemburu Iblis yang dikenal sebagai Pilar Angin. Dia adalah seorang pemburu iblis yang keras dan bersemangat, yang memiliki tekad yang kuat untuk membasmi iblis. Sanemi adalah sosok yang teguh dan bertekad, yang tidak pernah mundur dalam menghadapi bahaya dan kesulitan. Dia adalah pemburu iblis yang kuat dan andal, yang selalu siap untuk melindungi orang-orang yang dicintainya dari kejahatan iblis.]]></item>
+        <item><![CDATA[Gyomei Himejima adalah seorang pilar dalam Korps Pemburu Iblis yang dikenal sebagai Pilar Bumi. Dia adalah seorang pemburu iblis yang kuat dan bertekad, yang memiliki kekuatan fisik yang luar biasa. Gyomei adalah ahli dalam menggunakan palu besar sebagai senjata, yang membuatnya menjadi lawan yang menakutkan bagi iblis. Meskipun memiliki penampilan yang menakutkan, Gyomei memiliki hati yang baik dan berusaha untuk melindungi orang-orang yang dicintainya dari kejahatan iblis.]]></item>
+    </string-array>
+
+
+    <integer-array name="data_img_slayer">
+        <item>@drawable/tanjiro</item>
+        <item>@drawable/nezuko</item>
+        <item>@drawable/zenitsu</item>
+        <item>@drawable/inosuke</item>
+        <item>@drawable/giyu</item>
+        <item>@drawable/shinobu</item>
+        <item>@drawable/kyojuro</item>
+        <item>@drawable/tengen</item>
+        <item>@drawable/muichiro</item>
+        <item>@drawable/mitsuri</item>
+        <item>@drawable/obanai</item>
+        <item>@drawable/sanemi</item>
+        <item>@drawable/gyomei</item>
+    </integer-array>
+
+    <string-array name="data_name_demon">
+        <item>Muzan Kibutsuji</item>
+        <item>Kokushibo</item>
+        <item>Doma</item>
+        <item>Akaza</item>
+        <item>Hantengu</item>
+        <item>Gyokko</item>
+        <item>Gyutaro</item>
+        <item>Daki</item>
+    </string-array>
+
+    <string-array name="data_desc_demon">
+    <item><![CDATA[
+        Muzan Kibutsuji adalah iblis tertua dan pemimpin utama dari iblis dalam seri Demon Slayer. Dia dikenal karena kekejaman dan kekuatannya yang luar biasa. Muzan memiliki kemampuan untuk mengubah orang menjadi iblis dengan menginfeksinya dengan darah iblisnya.
+    ]]></item>
+        <item><![CDATA[
+        Kokushibo, yang juga dikenal sebagai Michikatsu Tsugikuni, adalah salah satu dari dua belas Kizuki yang terkuat. Dia memiliki kekuatan yang sangat besar dan menguasai seni pedang yang luar biasa. Sebagai salah satu musuh utama dalam cerita, Kokushibo menjadi tantangan yang besar bagi para Pemburu Iblis.
+    ]]></item>
+        <item><![CDATA[
+        Doma adalah salah satu dari dua belas Kizuki yang kuat. Dia adalah iblis yang penuh kegilaan dan kebrutalan. Doma memiliki kemampuan untuk mengendalikan darah dan menggunakan senjata tubuhnya untuk bertarung.
+    ]]></item>
+        <item><![CDATA[
+        Akaza adalah salah satu dari dua belas Kizuki dan memiliki kekuatan fisik yang luar biasa. Meskipun dia sangat kuat, Akaza juga memiliki sisi emosional yang rumit, yang menjadi fokus cerita dalam pertarungannya dengan karakter utama.
+    ]]></item>
+        <item><![CDATA[
+        Hantengu adalah iblis yang memiliki kemampuan untuk mengendalikan semangat dan mengubah wujudnya sesuai keinginannya. Dia adalah musuh yang licik dan sulit dihadapi bagi para Pemburu Iblis.
+    ]]></item>
+        <item><![CDATA[
+        Gyokko adalah iblis yang menguasai unsur air. Dia bertarung menggunakan teknik manipulasi air yang luar biasa, membuatnya menjadi musuh yang menantang bagi para Pemburu Iblis.
+    ]]></item>
+        <item><![CDATA[
+        Gyutaro dan Daki adalah sepasang iblis kembar yang bertarung bersama. Mereka menggunakan alat musik dan kemampuan unik mereka untuk menghadapi lawan-lawan mereka. Kedua karakter ini memiliki hubungan yang kompleks dan dinamika yang menarik dalam cerita.
+    ]]></item>
+        <item><![CDATA[
+        Daki adalah iblis yang merupakan kembaran Gyutaro. Dia adalah musisi yang mahir dan menggunakan alat musik untuk bertarung. Daki juga memiliki sisi emosional yang kuat, yang membuatnya menjadi karakter yang menarik dalam cerita Demon Slayer.
+    ]]></item>
+    </string-array>
+
+    <integer-array name="data_img_demon">
+        <item>@drawable/muzan</item>
+        <item>@drawable/kokushibo</item>
+        <item>@drawable/doma</item>
+        <item>@drawable/akaza</item>
+        <item>@drawable/hantengu</item>
+        <item>@drawable/gyokko</item>
+        <item>@drawable/gyutaro</item>
+        <item>@drawable/daki</item>
+    </integer-array>
+</resources>
